@@ -1,6 +1,9 @@
 # The Holy Bible on the Web
 
-Based on SSG with NextJS.
+**This project is not finished yet.**
+Of course, you can use it, but it's not very user friendly yet.
+
+Based on Static Site Generation with NextJS.
 
 Currently only the HSV version is available and it's only Dutch. The way this works is really basic at this very moment, but I want to expand functionality in the future.
 
