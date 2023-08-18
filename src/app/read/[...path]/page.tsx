@@ -1,3 +1,4 @@
+import { serverPath } from "@/helpers/serverPath";
 import * as fs from "fs";
 import { GetStaticPaths } from "next";
 
@@ -7,9 +8,11 @@ interface Props {
 
 export default function Page({ params }: Props) {
   const content = fs.readFileSync(
-    `./public/bibles/HSV/${params.path[0].replace("_", " ")}/${
-      params.path[1]
-    }/README.md`,
+    serverPath(
+      `/public/bibles/HSV/${params.path[0].replace("_", " ")}/${
+        params.path[1]
+      }/README.md`
+    ),
     {
       encoding: "utf-8",
     }
@@ -24,7 +27,7 @@ export default function Page({ params }: Props) {
 
 export async function generateStaticParams() {
   const paths: { params: { path: string } }[] = fs
-    .readdirSync("./public/bibles/HSV")
+    .readdirSync(serverPath("/public/bibles/HSV"))
     .map((book) =>
       fs.readdirSync(`./public/bibles/HSV/${book}`).map((chapter) => ({
         params: { path: book.replace(" ", "_") },
