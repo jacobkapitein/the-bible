@@ -3,10 +3,12 @@
 import clsx from "clsx";
 import { useEffect, useState } from "react";
 import { BookSelectorBar } from "@/layouts/BookSelectorBar";
+import { useIsClient } from "@/contexts/IsClientCtx/IsClientCtx";
 
 export const Topbar: React.FC = () => {
   const [prevScrollPos, setPrevScrollPos] = useState<number>(0);
   const [visible, setVisible] = useState<boolean>(true);
+  const isClient = useIsClient();
 
   const handleScroll = () => {
     const currentScrollPos = window.pageYOffset;
@@ -29,7 +31,8 @@ export const Topbar: React.FC = () => {
       className={clsx(
         "fixed top-0 left-0 right-0 bg-gray-50 h-fit z-10 transition-transform duration-300 flex flex-col shadow-md items-center",
         {
-          "transform -translate-y-16": window.innerWidth <= 768 && !visible,
+          "transform -translate-y-16":
+            isClient && window.innerWidth <= 768 && !visible,
         }
       )}
     >

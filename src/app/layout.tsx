@@ -1,3 +1,4 @@
+import { IsClientCtxProvider } from "@/contexts/IsClientCtx/IsClientCtx";
 import "./globals.css";
 import { Topbar } from "@/layouts/Topbar";
 import type { Metadata } from "next";
@@ -18,13 +19,15 @@ export default function RootLayout({
   return (
     <html lang="nl">
       <body className={`bg-gray-50 text-gray-800 ${inter.className}`}>
-        <div className="flex flex-col items-center w-full">
-          <p>TEST</p>
-          <Topbar />
-          <div className="pt-32">
-            <main className="max-w-2xl px-2">{children}</main>
+        <IsClientCtxProvider>
+          <div className="flex flex-col items-center w-full">
+            <p>TEST</p>
+            <Topbar />
+            <div className="pt-32">
+              <main className="max-w-2xl px-2">{children}</main>
+            </div>
           </div>
-        </div>
+        </IsClientCtxProvider>
       </body>
     </html>
   );

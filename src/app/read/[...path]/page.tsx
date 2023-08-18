@@ -1,4 +1,5 @@
 import * as fs from "fs";
+import { GetStaticPaths } from "next";
 
 interface Props {
   params: { path: string[] };
@@ -21,18 +22,15 @@ export default function Page({ params }: Props) {
   );
 }
 
-export async function getStaticPaths() {
-  const paths = fs
+export async function generateStaticParams() {
+  const paths: { params: { path: string } }[] = fs
     .readdirSync("./public/bibles/HSV")
     .map((book) =>
       fs.readdirSync(`./public/bibles/HSV/${book}`).map((chapter) => ({
-        params: { path: [book.replace(" ", "_"), chapter] },
+        params: { path: book.replace(" ", "_") },
       }))
     )
     .flat();
 
-  return {
-    paths,
-    fallback: false,
-  };
+  return paths;
 }
