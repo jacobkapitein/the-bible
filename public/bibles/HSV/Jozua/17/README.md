@@ -1,0 +1,19 @@
+#Jozua 17
+1. De stam Manasse had ook een lot, omdat hij de eerstgeborene van Jozef was. Machir, de eerstgeborene van Manasse, de vader van Gilead, kreeg *namelijk* Gilead en Basan, omdat hij een strijdbaar man was.
+2. Ook kregen de overgebleven nakomelingen van Manasse *een deel*, naar hun geslachten, *namelijk* de nakomelingen van Abiëzer, de nakomelingen van Helek, de nakomelingen van Asriël, de nakomelingen van Sechem, de nakomelingen van Hefer en de nakomelingen van Semida. Dit zijn de mannelijke nakomelingen van Manasse, de zoon van Jozef, naar hun geslachten.
+3. Maar Zelafead, de zoon van Hefer, de zoon van Gilead, de zoon van Machir, de zoon van Manasse, had geen zonen, maar dochters, en dit zijn de namen van zijn dochters: Machla en Noa, Hogla, Milka en Tirza.
+4. Dezen kwamen naar voren, bij Eleazar, de priester, en bij Jozua, de zoon van Nun, en bij de leiders, en zeiden: De HEERE heeft Mozes geboden ons een erfelijk bezit te geven te midden van onze broeders. Daarom gaf hij hun, naar het bevel van de HEERE, een erfelijk bezit in het midden van de broers van hun vader.
+5. En aan Manasse vielen tien delen toe, behalve het land Gilead en Basan, dat aan de andere zijde van de Jordaan ligt.
+6. Want de dochters van Manasse ontvingen een erfelijk bezit te midden van zijn zonen, en het land Gilead was voor de overgebleven nakomelingen van Manasse.
+7. De grens van Manasse loopt dus van Aser af tot Michmetath, dat tegenover Sichem ligt. Deze grens loopt vervolgens in zuidelijke richting naar de inwoners van En-Tappuah.
+8. Het land van Tappuah behoorde wel aan Manasse toe, maar Tappuah zelf, aan de grens van Manasse, behoorde aan de nakomelingen van Efraïm toe.
+9. Daarna loopt de grens naar beneden naar de beek Kana, zuidelijk van de beek. Deze steden zijn van Efraïm te midden van de steden van Manasse. De grens van Manasse ligt ten noorden van de beek, en zijn eindpunt ligt bij de zee.
+10. Naar het zuiden toe was het van Efraïm, naar het noorden toe was het van Manasse, en de zee was zijn grens. In het noorden reikten zij tot Aser en in het oosten tot Issaschar.
+11. Want Manasse bezat in Issaschar en in Aser: Beth-Sean en de bijbehorende *plaatsen*, Jibleam en de bijbehorende *plaatsen*, de inwoners van Dor en de bijbehorende *plaatsen*, de inwoners van En-Dor en de bijbehorende *plaatsen*, de inwoners van Taänach en de bijbehorende *plaatsen*, en de inwoners van Megiddo en de bijbehorende *plaatsen*: drie landstreken.
+12. De nakomelingen van Manasse waren niet in staat *de inwoners van* die steden te verdrijven, want de Kanaänieten wilden in dat land *blijven* wonen.
+13. En het gebeurde, toen de Israëlieten sterk werden, dat zij de Kanaänieten herendienst lieten verrichten, maar helemaal verdreven hebben zij hen niet.
+14. Toen zeiden de nakomelingen van Jozef tegen Jozua: Waarom hebt u mij als erfelijk bezit maar één lot en één deel gegeven, terwijl ik toch een groot volk ben, aangezien de HEERE mij tot nu toe gezegend heeft?
+15. Jozua zei tegen hen: Indien u een groot volk bent, ga dan naar het bos, en hak daar voor uzelf *de bomen* om in het land van de Ferezieten en van de Refaïeten, omdat het bergland van Efraïm te klein voor u is.
+16. Toen zeiden de nakomelingen van Jozef: Dat bergland zal voor ons niet groot genoeg zijn. Bovendien zijn er ijzeren strijdwagens bij alle Kanaänieten die in het land in het dal wonen, bij die in Beth-Sean en de bijbehorende *plaatsen* en bij *hen* die in het dal van Jizreël wonen.
+17. Daarop zei Jozua tegen het huis van Jozef, tegen Efraïm en Manasse: U bent een groot volk en u hebt grote kracht. U zult niet *slechts* één lot hebben,
+18. maar het bergland zal van u zijn. *En* omdat het een bos*gebied* is, moet u daar *de bomen* omhakken, dan zullen de uitlopers ervan voor u zijn. U zult de Kanaänieten voorzeker verdrijven, al hebben zij ijzeren strijdwagens *en* al zijn zij sterk.

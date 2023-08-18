@@ -1,34 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Holy Bible on the Web
 
-## Getting Started
+Based on SSG with NextJS.
 
-First, run the development server:
+Currently only the HSV version is available and it's only Dutch. The way this works is really basic at this very moment, but I want to expand functionality in the future.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+There is a book selector at the moment, but it doesn't do anything yet. The only way to navigate is by changing the URL. (http://localhost:3000/[book]/[chapter] e.g. http://localhost:3000/1_Koningen/1)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Future plans
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Use OSIS format for the Bible text (currently using markdown). This will make it easier to compare different versions of the Bible, as references are standardized. (e.g. `John 3:16` or `Johannes 3:16` will always be `John.3.16`, no matter your language or version of the Bible)
+- Be able to select a version of the Bible (only versions as close as possible to the original scriptures, e.g. Statenvertaling, HSV, KJV, etc. No Book of Mormon or other non-biblical texts)
+- Compare 2 versions of the Bible side by side
+- Be able to select a book, chapter and verse
+- Be able to select a range of verses
+- Click on cross references to read them (possibly in a popup)
+- Search function
+- Be able to make notes
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Maybe I will add Apocrypha in the future, but I'm not sure yet.
