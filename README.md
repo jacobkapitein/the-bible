@@ -7,7 +7,7 @@ Based on Static Site Generation with NextJS.
 
 Currently only the [HSV](https://nl.wikipedia.org/wiki/Herziene_Statenvertaling) version is available and it's only Dutch. The way this works is really basic at this very moment, but I want to expand functionality in the future.
 
-There is a book selector at the moment, but it doesn't do anything yet. The only way to navigate is by changing the URL. (http://localhost:3000/[book]/[chapter] e.g. http://localhost:3000/1_Koningen/1)
+There is a book selector at the moment, but it doesn't do anything yet. The only way to navigate is by changing the URL. (http://localhost:3000/read/[book]/[chapter] e.g. http://localhost:3000/read/1_Koningen/1)
 
 ## Future plans
 
