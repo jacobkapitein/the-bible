@@ -19,6 +19,7 @@ There is a book selector at the moment, but it doesn't do anything yet. The only
 - Click on cross references to read them (possibly in a popup)
 - Search function
 - Be able to make notes
+- Explanation on how to read the Bible for beginners (e.g. where to start, how to read, what does bold or italic text mean etc.)
 
 Maybe I will add Apocrypha in the future, but I'm not sure yet.
 
