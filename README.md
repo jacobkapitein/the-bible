@@ -1,11 +1,11 @@
 # The Holy Bible on the Web
 
 **This project is not finished yet.**
-Of course, you can use it, but it's not very user friendly yet.
+Of course, you can use it, but it's not very user friendly yet. The current version is only a proof of concept.
 
 Based on Static Site Generation with NextJS.
 
-Currently only the HSV version is available and it's only Dutch. The way this works is really basic at this very moment, but I want to expand functionality in the future.
+Currently only the [HSV](https://nl.wikipedia.org/wiki/Herziene_Statenvertaling) version is available and it's only Dutch. The way this works is really basic at this very moment, but I want to expand functionality in the future.
 
 There is a book selector at the moment, but it doesn't do anything yet. The only way to navigate is by changing the URL. (http://localhost:3000/[book]/[chapter] e.g. http://localhost:3000/1_Koningen/1)
 
@@ -21,3 +21,9 @@ There is a book selector at the moment, but it doesn't do anything yet. The only
 - Be able to make notes
 
 Maybe I will add Apocrypha in the future, but I'm not sure yet.
+
+## Sources
+
+Current Bible based on https://github.com/henkjan/herziene-statenvertaling/tree/master.
+
+But I want to move to this project: https://github.com/Isidore-Guild/statenvertaling/
